@@ -1,0 +1,11 @@
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\TestNet5API.exe
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\TestNet5API.dll
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\TestNet5API.deps.json
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\TestNet5API.runtimeconfig.json
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\TestNet5API.pdb
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IA\source\repos\TestNet5API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
